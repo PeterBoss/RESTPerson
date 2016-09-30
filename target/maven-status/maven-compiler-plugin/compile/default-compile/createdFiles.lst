@@ -1,0 +1,10 @@
+myPackage\Person.class
+myPackage\Person_.class
+myPackage\test\Person_.class
+myPackage\PersonFacade.class
+utility\JSONConverter.class
+myPackage\RESTperson.class
+utility\Tester.class
+myPackage\ApplicationConfig.class
+myPackage\IPersonFacade.class
+myPackage\development\Person_.class
